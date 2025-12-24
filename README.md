@@ -42,14 +42,18 @@
 ```bash
 git clone https://github.com/RaffaR902/testador-de-velocidade-de-internet
 ```
-2. Instale as dependências:
+2. Entre na pasta do projeto:
+```bash
+cd testador-de-velocidade-de-internet
+```
+3. Instale as dependências:
 ```bash
 pip install -r requirements.txt
 ```
-3. Execute o arquivo principal do projeto:
+4. Execute o arquivo principal do projeto:
 ```bash
 python main.py
 ```
-4. Ao abrir o aplicativo, clique no botão "Iniciar teste".
-5. Aguarde alguns segundos até que os valores de download e upload sejam exibidos.
-6. Para refazer o teste, clique em "Testar novamente".
+5. Ao abrir o aplicativo, clique no botão "Iniciar teste".
+6. Aguarde alguns segundos até que os valores de download e upload sejam exibidos.
+7. Para refazer o teste, clique em "Testar novamente".
